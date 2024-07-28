@@ -19,6 +19,6 @@ variable "dynamodb_name" {
 variable "dynamodb_billing_mode" {
   description = "dynamodb_billing mode"
   type        = string
-  default     = "AY_PER_REQUEST"
+  default     = "PAY_PER_REQUEST"
 
 }
