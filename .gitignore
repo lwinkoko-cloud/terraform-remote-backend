@@ -5,7 +5,7 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
-.tierraform*
+.terraform*
 
 # logs
 *.log
