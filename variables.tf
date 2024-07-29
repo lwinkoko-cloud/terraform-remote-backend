@@ -6,7 +6,7 @@ variable "aws_region" {
 
 variable "s3_bucket_name" {
   type    = string
-  default = "my_s3_bucket"
+  default = "my-s3-bucket-lwin"
 
 }
 
